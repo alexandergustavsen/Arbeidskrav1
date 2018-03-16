@@ -1,3 +1,10 @@
+//Alexander Gustavsen | 21.03.2018
+
+/*
+ *Weight-klassen er en subklasse av Meter, og her legges
+ * til de ekstra verdiene som vekten skal inneholde.
+ * */
+
 public class Weight extends Meter
 {
     private double minWeight;

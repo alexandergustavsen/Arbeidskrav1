@@ -1,4 +1,11 @@
-public class Meter {
+//Alexander Gustavsen | 21.03.2018
+
+/*
+ *Meter-klassen er en abstrakt superklasse som inneholder viktige verdier
+ * til instrumentene som regNummer, plassKode, og status.
+ * */
+
+public abstract class Meter {
 
     private String regNummer;
     private String plassKode;
@@ -41,10 +48,6 @@ public class Meter {
             + "Plassering: " + plassKode + "\n"
             + "Status: " + status;
     }
-
-    /*public boolean equals(String id) {
-        return this.regNummer.equals(id);
-    }*/
 
     @Override
     public boolean equals(Object o) {

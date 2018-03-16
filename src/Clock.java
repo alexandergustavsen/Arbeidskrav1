@@ -1,3 +1,10 @@
+//Alexander Gustavsen | 21.03.2018
+
+/*
+ *Clock-klassen er en subklasse av Meter, og her legges
+ * til de ekstra verdiene som klokken skal inneholde.
+ * */
+
 public class Clock extends Meter
 {
     private String minClock;
