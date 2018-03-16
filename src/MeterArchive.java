@@ -1,7 +1,7 @@
 //Alexander Gustavsen | 21.03.2018
 
 /*
-*MeterArchive-klassen inneholder alle metodene for å legge til, slette, endre, skrive ut
+* MeterArchive-klassen inneholder alle metodene for å legge til, slette, endre, skrive ut
 * og hente objekter fra Meter-klassen. Den oppretter også listen som inneholder alle objektene.
 * */
 

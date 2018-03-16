@@ -1,7 +1,7 @@
 //Alexander Gustavsen | 21.03.2018
 
 /*
- *Meter-klassen er en abstrakt superklasse som inneholder viktige verdier
+ * Meter-klassen er en abstrakt superklasse som inneholder viktige verdier
  * til instrumentene som regNummer, plassKode, og status.
  * */
 

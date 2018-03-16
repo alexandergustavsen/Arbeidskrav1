@@ -1,7 +1,7 @@
 //Alexander Gustavsen | 21.03.2018
 
 /*
- *Thermometer-klassen er en subklasse av Meter, og her legges
+ * Thermometer-klassen er en subklasse av Meter, og her legges
  * til de ekstra verdiene som termometeret skal inneholde.
  * */
 
